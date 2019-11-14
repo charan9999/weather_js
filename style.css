@@ -43,3 +43,13 @@ body{
 .degree-section h2{
     font-size: 40px;
 }
+
+@media (max-width :746px){
+    .location{
+        width:auto;
+    }
+    .location-timezone{
+        margin-right: 10px;
+    }
+
+}
